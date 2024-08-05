@@ -1,4 +1,15 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "calendar",
+  "dataview",
+  "obsidian-day-planner",
+  "obsidian-kanban",
+  "obsidian-languagetool-plugin",
+  "obsidian-mind-map",
+  "obsidian-outliner",
+  "tag-wrangler",
+  "templater-obsidian",
+  "table-editor-obsidian"
 ]
