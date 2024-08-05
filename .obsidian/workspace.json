@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "efba8904c2abb139",
+    "type": "split",
+    "children": [
+      {
+        "id": "00988ac921e7ca0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef1e829ea560e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Принципы SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffb658a2b069d58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Принципы SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10246f4329c9e211",
+    "type": "split",
+    "children": [
+      {
+        "id": "e76c017dc2b9276d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad72a07238c5b42e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80733c523df45c92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4d1a34e4422dbb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e4ac0b39cdba1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ff5ca9432f4124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909bb75c75fa9574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Принципы SOLID.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c5e39e4e7ccd94d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Принципы SOLID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1a3a790f40e559a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f184c48ccd424228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Принципы SOLID.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ad72a07238c5b42e",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-05 16.44.50.excalidraw.md",
+    "Принципы SOLID.md",
+    "Excalidraw",
+    "2024-08-05.md",
+    "2024-07-16.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.md"
+  ]
+}
