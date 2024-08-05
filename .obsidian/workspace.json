@@ -11,8 +11,12 @@
             "id": "b0d9af9227bcbbc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SOLID/Принципы SOLID.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SOLID/Принципы SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SOLID/Принципы SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SOLID/Принципы SOLID.md"
+              }
             }
           },
           {
@@ -161,9 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0d9af9227bcbbc7",
+  "active": "909bb75c75fa9574",
   "lastOpenFiles": [
+    "2024-08-05.md",
     "SOLID/Принципы SOLID.md",
+    "Excalidraw/Drawing 2024-08-05 20.04.44.excalidraw.md",
+    "SOLID/Pasted image 20240805200826.png",
+    "Pasted image 20240805200812.png",
     "Excalidraw/SOLID/Drawing 2024-08-05 19.17.14.excalidraw.md",
     "Excalidraw/SOLID/Drawing 2024-08-05 19.23.58.excalidraw.md",
     "SOLID/Pasted image 20240805192307.png",
@@ -183,7 +194,6 @@
     "Pasted image 20240805181523.png",
     "Excalidraw",
     "Excalidraw/Drawing 2024-08-05 16.44.50.excalidraw.md",
-    "2024-08-05.md",
     "2024-07-16.md",
     "Untitled.md",
     "Untitled.canvas",
