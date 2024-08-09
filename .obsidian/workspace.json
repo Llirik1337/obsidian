@@ -13,13 +13,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID/Принципы SOLID.md",
+                "file": "GRASP/GRASP (General responsibility assignment software patterns, распределение ответственности).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "da14d63862011fe0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Обучение.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "ffb3cd6532372509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YAGNI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "245ded9b93a82a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoF/Абстрактная фабрика (Abstract Factory, Factory).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "517eeb3b88adb134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoF/Декоратор (Decorator) или Оболочка (Wrapper).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f906eec3717782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoF/Заместитель (Proxy) или Суррогат (Surrogate).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e79be4faa11e7f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoF/Компоновщик (Composite).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b83d7f92572e6abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoF/Компоновщик (Composite).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edd35fbba732622d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-09 19.29.31.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f1d145758589ce24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-09 18.48.31.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -48,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ISP",
+                "query": "tag:#LSP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID/Принципы SOLID.md",
+                "file": "GoF/Компоновщик (Composite).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID/Принципы SOLID.md",
+                "file": "GoF/Компоновщик (Composite).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID/Принципы SOLID.md"
+                "file": "GoF/Компоновщик (Composite).md"
               }
             }
           },
@@ -145,12 +256,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,35 +279,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "909bb75c75fa9574",
+  "active": "b83d7f92572e6abe",
   "lastOpenFiles": [
-    "2024-08-05.md",
-    "SOLID/Принципы SOLID.md",
-    "Excalidraw/Drawing 2024-08-05 20.04.44.excalidraw.md",
-    "SOLID/Pasted image 20240805200826.png",
-    "Pasted image 20240805200812.png",
-    "Excalidraw/SOLID/Drawing 2024-08-05 19.17.14.excalidraw.md",
-    "Excalidraw/SOLID/Drawing 2024-08-05 19.23.58.excalidraw.md",
-    "SOLID/Pasted image 20240805192307.png",
-    "SOLID/Pasted image 20240805192824.png",
-    "SOLID/Pasted image 20240805192909.png",
-    "SOLID/Pasted image 20240805190118.png",
-    "SOLID/Pasted image 20240805183011.png",
-    "SOLID/Pasted image 20240805184443.png",
-    "Excalidraw/Drawing 2024-08-05 18.55.40.excalidraw.md",
-    "Excalidraw/SOLID",
-    "Excalidraw/OCP.md",
-    "README.md",
-    "SOLID",
-    "Excalidraw/Drawing 2024-08-05 18.41.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-05 18.15.49.excalidraw.md",
-    "Pasted image 20240805181528.png",
-    "Pasted image 20240805181523.png",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-08-05 16.44.50.excalidraw.md",
-    "2024-07-16.md",
+    "Pasted image 20240809213425.png",
+    "Excalidraw/Drawing 2024-08-09 21.28.53.excalidraw.md",
+    "GoF/Компоновщик (Composite).md",
+    "GoF/Заместитель (Proxy) или Суррогат (Surrogate).md",
+    "GoF/Фабричный метод (Factory Method) или Виртуальный конструктор (Virtual Constructor).md",
+    "GoF/Pasted image 20240809181038.png",
+    "GoF/Pasted image 20240809202402.png",
+    "Excalidraw/Drawing 2024-08-09 20.22.28.excalidraw.md",
+    "GoF/Декоратор (Decorator) или Оболочка (Wrapper).md",
+    "GoF/Pasted image 20240809195938.png",
+    "Excalidraw/Drawing 2024-08-09 19.55.16.excalidraw.md",
+    "GoF/Адаптер (Adapter).md",
+    "GoF/Pasted image 20240809194008.png",
+    "GoF/Pasted image 20240809193806.png",
+    "GoF/Pasted image 20240809193403.png",
+    "Excalidraw/Drawing 2024-08-09 19.29.31.excalidraw.md",
+    "GoF/Pasted image 20240809185813.png",
+    "Excalidraw/Drawing 2024-08-09 18.48.31.excalidraw.md",
+    "GoF/Pasted image 20240809185503.png",
+    "GoF/Абстрактная фабрика (Abstract Factory, Factory).md",
     "Untitled.md",
-    "Untitled.canvas",
-    "Untitled 1.md"
+    "Excalidraw/Drawing 2024-08-09 18.05.50.excalidraw.md",
+    "Обучение.md",
+    "GoF",
+    "KISS.md",
+    "YAGNI.md",
+    "GRASP/GRASP (General responsibility assignment software patterns, распределение ответственности).md",
+    "Excalidraw/Drawing 2024-08-07 09.53.40.excalidraw.md",
+    "GRASP/Pasted image 20240807095606.png",
+    "GRASP/Pasted image 20240807095814.png",
+    "SOLID/Принципы SOLID.md",
+    "GRASP",
+    "Excalidraw/Drawing 2024-08-05 23.34.57.excalidraw.md",
+    "2024-08-04.md",
+    "Excalidraw/Drawing 2024-08-05 23.32.22.excalidraw.md",
+    "Изучение.md",
+    "2024-08-05.md",
+    "Excalidraw/Drawing 2024-08-05 20.04.44.excalidraw.md",
+    "Excalidraw/SOLID",
+    "SOLID",
+    "Excalidraw",
+    "Untitled.canvas"
   ]
 }
